@@ -1,4 +1,4 @@
-er">Developer Portfolio</h1>
+<h1 align="center">Developer Portfolio</h1>
 
 <p align="center">
   <strong>A modern, responsive, and customizable portfolio template for developers and freelancers</strong>
