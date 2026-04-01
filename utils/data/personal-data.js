@@ -1,7 +1,7 @@
 export const personalData = {
   name: "ABHISHEK MISHRA",
   profile: "/profile.jpeg",
-  designation: "Software Developer",
+  designation: "Full Stack Web Developer",
   description:
     "I’m a  Computer Engineering student with a strong interest in software development and logic building. I enjoy building projects, solving real-world problems, and continuously learning new technologies.  I’m actively working on developing both my technical and soft skills to prepare for impactful roles in the tech industry.Currently, I’m seeking internship opportunities to gain practical experience and contribute to meaningful projects.",
   email: "mishra.abhishek173@gmail.com",
@@ -15,5 +15,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/abhishekmishra173/",
   devUsername: "abhishek_mishra_39244395e",
   resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+    "https://drive.google.com/file/d/1kmKZS1h2F5aMMIyVEEutP-FDYkBQlLzy/view?usp=drivesdk",
 };
