@@ -15,6 +15,7 @@ function Education() {
         width={1572}
         height={795}
         className="absolute top-0 -z-10"
+        priority
       />
       <div className="flex justify-center -translate-y-[1px]">
         <div className="w-3/4">
